@@ -153,24 +153,6 @@ Examples:
 
 ---
 
-# 📂 Project Structure
-
-```bash
-Weather-App/
-│
-├── index.html
-├── style.css
-├── script.js
-├── assets/
-│   ├── icons/
-│   ├── images/
-│   └── backgrounds/
-│
-└── README.md
-```
-
----
-
 # 🔥 Core Concepts Used
 
 ## 📌 API Integration
@@ -341,38 +323,6 @@ The concepts used in this project are useful in:
 
 ---
 
-# 📸 Project Preview
-
-Add your screenshots here.
-
-```bash
-Screenshot 1
-Screenshot 2
-Screenshot 3
-```
-
----
-
-# ▶️ How to Run the Project
-
-## Step 1
-
-Clone the repository:
-
-```bash
-git clone https://github.com/your-username/weather-app.git
-```
-
-## Step 2
-
-Open the project folder.
-
-## Step 3
-
-Run the `index.html` file in your browser.
-
----
-
 # 🤝 Contribution
 
 Contributions are welcome.
@@ -394,7 +344,7 @@ This project is created for educational and learning purposes.
 
 # 👨‍💻 Developer
 
-Developed with ❤️ using HTML, CSS, JavaScript, and Weather API.
+Developed by Abhay Pratap Singh using HTML, CSS, JavaScript, and Weather API.
 
 ---
 
